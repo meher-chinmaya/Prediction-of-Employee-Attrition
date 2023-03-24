@@ -11,3 +11,4 @@ The objective of this project was to predict the rate of employee attrition in t
   * train the model (Fit)
   * Test the trained model (prediction )
   * Model Evaluation
+  *Model Deployment Using Gradio
